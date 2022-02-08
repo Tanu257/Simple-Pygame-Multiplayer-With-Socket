@@ -1,0 +1,15 @@
+Hey, This is a Simple Online Game. 2 Players Are Requered To Playe This Game.
+
+1) Run servert.py
+2) Choose A Port Number(must be 4 digits)
+3)click on create
+4) Now you will be able to see the Game Code on the top
+5)Copy That Code
+
+6) Now Open ui.py
+7) Enter The Game Code Witch You Have Got In The Servert.py ,Then Enter The Port Which Were Also You Have Choosen in Servert.py
+8) Click On 'GO'
+9) Do The Upper 3 Steps On 2 Diffrent Computer
+10) Now You Will Be Able To Play The Game... ENJOY Iy, Hope You like It.
+
+!! Make Sure That The Servert.py is Running In 1 Computer, And Close The servert.py When You dont want to Play The Game..!!
